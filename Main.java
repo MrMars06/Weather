@@ -4,7 +4,7 @@ class Main {
     // Below is the different variables that will be used
 
     boolean weatherGood = true;
-    
+
 
   }
 }
